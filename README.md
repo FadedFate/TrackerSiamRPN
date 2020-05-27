@@ -16,7 +16,7 @@ Details regarding the tracking algorithm can be found in the *following* paper:
 ## Performance
  
 ### During Training
-![Val_loss trend during training (60 epoches)]()
+![Val_loss trend during training (60 epoches)](https://github.com/FadedFate/TrackerSiamRPN/blob/master/traing.JPG)
 
 ### Compared with pretrained model
 #### OTB Dataset
