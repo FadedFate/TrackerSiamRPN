@@ -39,4 +39,4 @@ Details regarding the tracking algorithm can be found in the *following* paper:
 ## Update
 
  - [ ] Accuracy seems unreasonable low compared with baseline, I will check it again later.
- - [ ] Provide the pretrained model for convenient.
+ - [ ] Provide the pretrained model for convenience.
