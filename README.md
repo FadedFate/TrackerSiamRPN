@@ -25,7 +25,7 @@ Details regarding the tracking algorithm can be found in the *following* paper:
 | OTB2015       | [Provided](https://github.com/huanglianghua/siamrpn-pytorch)      | 0.630            | 0.837 |
 | OTB2015       | Epoch_1   | 0.133            | 0.183 |
 | OTB2015       | Epoch_45   | 0.325            | 0.633 |
-| OTB2015       | Epoch_60   | coming soon            | coming soon |
+| OTB2015       | Epoch_60   | 0.329            | 0.642 |
 
 #### VOT Dataset
 
@@ -34,5 +34,9 @@ Details regarding the tracking algorithm can be found in the *following* paper:
 | VOT2019       | [Provided](https://github.com/huanglianghua/siamrpn-pytorch) | 0.571            | 36.576            |
 | VOT2019       | Epoch_1 | 0.213            | 139.880            |
 | VOT2019       | Epoch_45 | 0.341            | 57.056            |
-| VOT2019       | Epoch_60 | coming soon          | coming soon           |
+| VOT2019       | Epoch_60 | 0.343          | 54.855           |
 
+## Update
+
+ - [ ] Accuracy seems unreasonable low compared with baseline, I will check it again later.
+ - [ ] Provide the pretrained model for convenient.
